@@ -1,0 +1,22 @@
+.region-filter {
+    display: flex;
+    justify-content: center;
+    background-color: #ffc107;
+    padding: 10px;
+    margin-top: -2%;
+  }
+  
+  .region-filter button {
+    background: none;
+    border: none;
+    color: #000;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .region-filter .selected {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
